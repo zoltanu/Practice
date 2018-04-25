@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520263210 source:c:\users\udvardy\documents\codes\osszetettprogramokkellekei\lnko.c
+	"lnko.h"
+
+1520262898 c:\users\udvardy\documents\codes\osszetettprogramokkellekei\lnko.h
+
+1520263778 source:c:\users\udvardy\documents\codes\osszetettprogramokkellekei\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lnko.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521212336 source:c:\users\udvardy\documents\codes\cplusplusexceptionhandling\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+

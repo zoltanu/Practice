@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519897969 source:c:\users\udvardy\documents\codes\mszerndinamikustomb\main.c
+	<stdio.h>
+	<stdlib.h>
+

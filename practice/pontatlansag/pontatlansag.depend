@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519479834 source:c:\users\udvardy\documents\codes\pontatlansag\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
